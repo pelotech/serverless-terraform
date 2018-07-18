@@ -1,0 +1,1 @@
+# Serverless Terraform Provider Plugin
